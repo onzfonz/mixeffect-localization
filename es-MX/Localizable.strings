@@ -1,8 +1,8 @@
 "%lld days-remaining" = "%lld Days Remaining in Trial";
 
-"0.5-seconds" = "0.5 seconds";
+"0.5-seconds" = "0.5 segundos";
 
-"1.0-seconds" = "1.0 seconds";
+"1.0-seconds" = "1.0 segundos";
 
 "1.33:1" = "Super 35 (1.33:1)";
 
@@ -10,7 +10,7 @@
 
 "1.43:1" = "IMAX (1.43:1)";
 
-"1.5-seconds" = "1.5 seconds";
+"1.5-seconds" = "1.5 segundos";
 
 "1.66:1" = "VistaVision (1.66:1)";
 
@@ -22,7 +22,7 @@
 
 "1:1" = "Square (1:1)";
 
-"2.0-seconds" = "2.0 seconds";
+"2.0-seconds" = "2.0 segundos";
 
 "2.35:1" = "Super 35 (2.35:1)";
 
@@ -806,7 +806,7 @@
 
 "hold" = "Hold";
 
-"hold-for" = "Seconds to Hold";
+"hold-for" = "Segundos to Hold";
 
 "hour" = "Hour";
 
@@ -1738,9 +1738,9 @@
 
 "search-presets" = "Search Presets";
 
-"second" = "Second";
+"second" = "Segundo";
 
-"seconds" = "Seconds";
+"seconds" = "Segundo";
 
 "security" = "Security";
 
