@@ -76,7 +76,7 @@
 
 "add-to-siri" = "Add to Siri";
 
-"advanced" = "Advanced";
+"advanced" = "Avanzado";
 
 "aesbu" = "AES/EBU";
 
@@ -86,7 +86,7 @@
 
 "afv" = "AFV";
 
-"all" = "All";
+"all" = "Todo";
 
 "all-off" = "All Off";
 
@@ -98,7 +98,7 @@
 
 "animate-supersource-short" = "Animate When Changing Layouts";
 
-"animation" = "Animation";
+"animation" = "Animación";
 
 "animation-speed" = "Speed";
 
@@ -112,13 +112,13 @@
 
 "app-name-trial" = "MixEffect Trial";
 
-"appearance" = "Appearance";
+"appearance" = "Aparencia";
 
 "are-greater-than" = "Are Greater Than";
 
 "are-less-than" = "Are Less Than";
 
-"art" = "Art";
+"art" = "Arte";
 
 "ascending" = "Ascending";
 
@@ -126,7 +126,7 @@
 
 "atem-switcher" = "ATEM Switcher";
 
-"attack" = "Attack";
+"attack" = "Atacar";
 
 "audio" = "Audio";
 
@@ -184,7 +184,7 @@
 
 "back" = "Back";
 
-"background" = "Background";
+"background" = "Fondo";
 
 "balance" = "Balance";
 
@@ -212,9 +212,9 @@
 
 "bkgd" = "Bkgd";
 
-"black" = "Black";
+"black" = "Negro";
 
-"blue" = "Blue";
+"blue" = "Azul";
 
 "border" = "Border";
 
@@ -248,9 +248,9 @@
 
 "brightness" = "Brightness";
 
-"button" = "Button";
+"button" = "Botón";
 
-"buttons" = "Buttons";
+"buttons" = "Botones";
 
 "buy-later" = "Buy Later";
 
@@ -268,7 +268,7 @@
 
 "camera-control-view-style" = "Camera Control View Style";
 
-"cancel" = "Cancel";
+"cancel" = "Cancelar";
 
 "capture-still" = "Capture Still";
 
@@ -280,11 +280,11 @@
 
 "capture-video-short" = "Video";
 
-"center" = "Center";
+"center" = "Centro";
 
 "center-of-key" = "Center of Key";
 
-"change" = "Change";
+"change" = "Cambiar";
 
 "change-program-source" = "Change Program Source To";
 
@@ -292,7 +292,7 @@
 
 "chat" = "Chat";
 
-"choose" = "Choose";
+"choose" = "Elige";
 
 "chroma" = "Chroma";
 
@@ -328,7 +328,7 @@
 
 "clips" = "Clips";
 
-"close" = "Close";
+"close" = "Cerrar";
 
 "coarse" = "Coarse";
 
@@ -346,11 +346,11 @@
 
 "color-scheme" = "Color Scheme";
 
-"color-scheme-dark" = "Dark";
+"color-scheme-dark" = "Oscuro";
 
-"color-scheme-light" = "Light";
+"color-scheme-light" = "Claro";
 
-"color-scheme-system" = "System";
+"color-scheme-system" = "Sistema";
 
 "compact-controls" = "Compact Controls";
 
@@ -376,9 +376,9 @@
 
 "contrast" = "Contrast";
 
-"control" = "Control";
+"control" = "Controlar";
 
-"copy" = "Copy";
+"copy" = "Copiar";
 
 "copy-from" = "Copy Box From";
 
@@ -398,7 +398,7 @@
 
 "custom-rate" = "Custom Rate…";
 
-"cut" = "Cut";
+"cut" = "Cortar";
 
 "cut-supersource" = "Cut to SuperSource";
 
@@ -462,13 +462,13 @@
 
 "dip-source" = "Dip Source";
 
-"direction" = "Direction";
+"direction" = "Dirección";
 
 "disable-sleep" = "Disable Auto-Lock";
 
 "disable-sleep-alert" = "Device will not auto-lock while MixEffect is active";
 
-"disconnect" = "Disconnect";
+"disconnect" = "Desconectar";
 
 "dismiss-on-tap" = "Dismiss On Tap";
 
@@ -478,7 +478,7 @@
 
 "distribute" = "Distribute Evenly";
 
-"do-nothing" = "Do Nothing";
+"do-nothing" = "Hacer Nada";
 
 "documentation" = "Documentation";
 
@@ -512,7 +512,7 @@
 
 "dynamics" = "Dynamics";
 
-"edit" = "Edit";
+"edit" = "Editar";
 
 "edit %@" = "Edit %@";
 
